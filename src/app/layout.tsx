@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     title: "Negative Marks Calculator - Calculate Your Exam Scores Easily",
     description: "Calculate your exam marks, including negative marking, empty questions, and more. Get instant results and analyze your performance.",
     url: "https://markscal.vercel.app/", // Replace with your actual domain (provided)
-    siteName: "Your Website Name", // Update with your website name
+    siteName: ""Negative Marks Calculator", 
   },
   twitter: {
     card: "summary_large_image",
